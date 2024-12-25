@@ -1618,7 +1618,7 @@
 > 💡 ***Note***: Programming সম্পর্কে আমরা অনেক কিছুই জানলাম। এখন আমাদের পছন্দের যেকোন একটা Language(যেমন C, C++, Java, JavaScript, PHP, Python ইত্যাদি) Select করে আমাদের Practices চালিয়ে যেতে হবে। 
 
 
-> **Written By:** [Shahidul Islam](https://github.com/soponalways)
+> **Written By:** [Sopon Islam](https://github.com/soponalways)
 > **Youtube Channel:** [Base Coder](https://www.youtube.com/@Base-coder)
 > **Facebook:** [Sopon islam](https://www.facebook.com/soponalways)
 
